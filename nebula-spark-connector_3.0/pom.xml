@@ -16,7 +16,7 @@
         <compiler.source.version>1.8</compiler.source.version>
         <compiler.target.version>1.8</compiler.target.version>
         <scala.binary.version>2.12</scala.binary.version>
-        <spark3.0.version>3.0.0</spark3.0.version>
+        <spark3.0.version>3.5.7</spark3.0.version>
         <scala.version>2.12.10</scala.version>
         <scalatest.version>3.2.3</scalatest.version>
     </properties>
